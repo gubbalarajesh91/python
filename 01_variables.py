@@ -3,6 +3,10 @@ a = 42
 """
 Print the value
 that is stored inside
-the vaiable
+the vaiables
 """
 print(a)
+
+#Float value
+b = 42.345
+print(b)
