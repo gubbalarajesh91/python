@@ -22,3 +22,8 @@ print(result)
 text = "Python is awesome"
 length = len(text)
 print("Length of the String:", length)
+#Striped
+striped = "   Python is awesome  "
+print("Striped String:", striped)
+strip = striped.strip()
+print("Striped String:", strip)
