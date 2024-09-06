@@ -26,7 +26,7 @@ for i in range(1, 11):
 
 # final and except & added condition upper and lower
 try:
-    file = open('example.txt', 'r')
+    file = open('example2.txt', 'r')
     content = file.read()
     #print(content)
     uppercase = content.upper()
