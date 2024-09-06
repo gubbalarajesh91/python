@@ -27,3 +27,14 @@ striped = "   Python is awesome  "
 print("Striped String:", striped)
 strip = striped.strip()
 print("Striped String:", strip)
+
+#Rounding
+num = round(3.4725354, 3)
+print("Round the num:", num)
+
+#absolute value
+num = abs(-7)
+print("Absolute value:", num)
+
+#Regular Expression
+
